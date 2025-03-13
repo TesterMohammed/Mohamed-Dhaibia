@@ -6,5 +6,5 @@
 - 🖥️ SauceDemo Test Automation : https://github.com/TesterMohammed/SauceDemo-project   
 
 ## 📩 Connect with me  
-LinkedIn: www.linkedin.com/in/meddh
+LinkedIn: www.linkedin.com/in/meddh             
 GitHub:   https://github.com/TesterMohammed
