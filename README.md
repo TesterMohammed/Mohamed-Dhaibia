@@ -7,4 +7,7 @@
 
 ## 📩 Connect with me  
 LinkedIn: www.linkedin.com/in/meddh             
-GitHub:   https://github.com/TesterMohammed
+GitHub:   https://github.com/TesterMohammed        
+E-mail: mohamed.dhaibia@gmail.com        
+Phone: +216 53498226
+
